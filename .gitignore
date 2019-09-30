@@ -1,0 +1,7 @@
+ILSVRC15-curation/*.json
+
+Train/model/*.pth
+tracking_result
+
+*.pyc
+__pycahce__
